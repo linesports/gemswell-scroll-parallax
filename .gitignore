@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+dist/
+.vite/
+*.log
+__pycache__/
+*.pyc
+
+# Local/generated working assets not required to build the Vite app.
+exports/
+qa/
+scrapes/
+saveweb2zip-com-gemswellsociety-com/
+saveweb2zip-com-gemswellsociety-com.zip
+gemswell-premium-cinematic/
+gigapixel-*.jpg
